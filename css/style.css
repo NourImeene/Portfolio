@@ -24,6 +24,19 @@
     color: var(--bg-color);
 }
 
+
+.header-logo {
+    height: 50px; /* Adjust size as needed */
+    width: auto; /* Keeps aspect ratio */
+    margin: 10px 0; /* Adds spacing */
+    border-radius: 100%;
+}
+
+
+.logo{
+    border-radius: 100%;
+}
+  
 .dark-mode {
     --bg-color: #0b061f;
     --text-color: #fdfdfd;
